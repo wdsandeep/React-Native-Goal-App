@@ -6,12 +6,13 @@ Here you can add your goals, delete goals etc.
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](https://raw.githubusercontent.com/wdsandeep/React-Native-Goal-App/master/screen-1.jpg)
+
+<img src="https://raw.githubusercontent.com/wdsandeep/React-Native-Goal-App/master/screen-1.jpg" width="300">
+
 
 ### Screenshot 2
-![Screenshot 2](https://raw.githubusercontent.com/wdsandeep/React-Native-Goal-App/master/screen-2.jpg)
+<img src="https://raw.githubusercontent.com/wdsandeep/React-Native-Goal-App/master/screen-2.jpg" width="300">
 
 ### Screenshot 3
-![Screenshot 3](https://raw.githubusercontent.com/wdsandeep/React-Native-Goal-App/master/screen-3.jpg)
-
+<img src="https://raw.githubusercontent.com/wdsandeep/React-Native-Goal-App/master/screen-3.jpg" width="300">
 
